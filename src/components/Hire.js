@@ -16,6 +16,7 @@ const Hire = () => {
             </div>
 
             <form
+              netlify
               name="Feedback form"
               method="post"
               className="flex flex-col bg-purple-200 py-5 px-10 rounded lg:w-7/12"
