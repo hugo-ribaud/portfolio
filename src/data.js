@@ -6,7 +6,7 @@ const data = [
     },
     {
       id: 2,
-      path: './images/crypto-tracker.png',
+      path: './images/crypto-tracker-nextjs.png',
       desc: 'CryptoCurrency Tracker with Next.js',
     },
     {
