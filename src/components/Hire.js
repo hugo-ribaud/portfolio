@@ -47,12 +47,11 @@ const Hire = () => {
                 required
                 className="py-2 px-4 mb-5 rounded border border-solid border-purple-500 text-purple-500 placeholder-purple-500 font-semibold"
               ></textarea>
-              <a
-                href="mailto:hugo.ribaud.dev@gmail.com"
+              <input
+                type="submit"
+                value="Submit"
                 className="bg-purple-500 text-white font-bold tracking-wider py-2 rounded cursor-pointer transition-all hover:bg-purple-800"
-              >
-                Submit
-              </a>
+              />
             </form>
           </div>
         </div>
