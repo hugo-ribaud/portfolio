@@ -6,8 +6,8 @@ const data = [
     },
     {
       id: 2,
-      path: './images/fylo-landing-page.png',
-      desc: 'Fylo Landing Page',
+      path: './images/crypto-tracker.png',
+      desc: 'CryptoCurrency Tracker with Next.js',
     },
     {
       id: 3,
