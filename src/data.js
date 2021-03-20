@@ -8,6 +8,7 @@ const data = [
       id: 2,
       path: './images/crypto-tracker-nextjs.png',
       desc: 'CryptoCurrency Tracker with Next.js',
+      url: 'https://crypto-tracking-nextjs.netlify.app'
     },
     {
       id: 3,
