@@ -24,6 +24,12 @@ const Showcase = () => {
             >
               Projects
             </Link>
+            <Link
+              to="/about"
+              className="mr-5 bg-white text-purple-500 p-2 px-4 rounded-full font-semibold transition-all hover:bg-purple-800 hover:text-white"
+            >
+              About
+            </Link>
           </div>
         </div>
       </section>

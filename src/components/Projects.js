@@ -12,7 +12,7 @@ const Projects = () => {
           const { id, path, desc, url } = item;
           return (
             <div key={id}>
-              <a href={url}>
+              <a href ={url} rel="noreferrer" target='_blank'>
               <img
                 src={path}
                 alt={desc}

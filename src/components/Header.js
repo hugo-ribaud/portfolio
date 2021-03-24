@@ -18,6 +18,9 @@ const Header = () => {
             <li className="mr-5">
               <Link to="/projects">Projects</Link>
             </li>
+            <li className="mr-5">
+              <Link to="/about">About</Link>
+            </li>
             <li>
               <Link
                 to="/hire"
