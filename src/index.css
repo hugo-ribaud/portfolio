@@ -26,3 +26,10 @@ body {
   height: 100vh;
   background-color: rgba(0, 0, 0, 0.2);
 }
+
+/* ABOUT */
+
+.about {
+  height: 100vh;
+  background: url(./assets/showcase4.jpg) no-repeat center;
+}
