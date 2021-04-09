@@ -13,7 +13,7 @@ function About() {
           <div className='flex flex-col justify-center max-w-xs mx-auto bg-purple-300 shadow-xl rounded-xl p-5'>
             <div className=''>
               <img
-                className='w-32 mx-auto shadow-xl rounded-full'
+                className='w-32 mx-auto shadow-xl rounded-xl'
                 src={profile}
                 alt='Profile face'
               />
@@ -49,7 +49,7 @@ function About() {
                 </a>
                 <a
                   className='text-xl m-1 p-1 sm:m-2 sm:p-2 text-teal-500 hover:bg-teal-500 rounded-full hover:text-white transition-colors duration-300'
-                  href='mailto:hugo.ribaud.dev@gmail.com'
+                  href='/hire'
                 >
                   <FaRegEnvelope />
                   <span className='sr-only'>Email</span>
@@ -61,7 +61,7 @@ function About() {
                   href={CV}
                   rel='noreferrer'
                   target='_blank'
-                  className=' bg-purple-300 p-2 px-4 rounded-full font-semibold transition-all hover:bg-purple-400 border mt-5'
+                  className=' bg-purple-300 p-2 px-4 rounded-full font-semibold transition-all hover:bg-purple-400 mt-5'
                 >
                   Download CV (French)
                 </a>
