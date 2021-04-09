@@ -1,25 +1,27 @@
 const data = [
   {
     id: 1,
-    path: "./images/eggcellent.png",
+    path: "./images/eggcellent-tailwind.png",
     desc: "Small React.js + TailwindCSS Project",
     url: "https://eggcellent.netlify.app/",
   },
   {
     id: 2,
-    path: "./images/crypto-tracker-nextjs.png",
+    path: "./images/CryptoTracker.png",
     desc: "CryptoCurrency Tracker with Next.js",
     url: "https://crypto-tracking-nextjs.netlify.app",
   },
   {
     id: 3,
-    path: "./images/huddle-curved-sections.png",
-    desc: "Huddle Curved Sections",
+    path: "./images/Myctofriend.png",
+    desc: "My CTO Friend Website - WP",
+    url: "https://myctofriend.co/",
   },
   {
     id: 4,
-    path: "./images/huddle-landing-page.png",
-    desc: "Huddle Landing Page",
+    path: "./images/g-you-formation.png",
+    desc: "G-You Formation VTC - WP",
+    url: "https://g-you-formations.com/",
   },
   {
     id: 5,
