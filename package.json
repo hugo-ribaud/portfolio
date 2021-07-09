@@ -1,6 +1,8 @@
 {
   "name": "portfolio",
-  "version": "0.1.0",
+  "homepage": "https://www.hugo-ribaud.dev",
+  "author": "Hugo RIBAUD",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.1.1",
@@ -16,8 +18,10 @@
     "react-notifications": "^1.7.2",
     "react-pdf": "^5.2.0",
     "react-player": "^2.9.0",
+    "react-preloaders": "^3.0.3",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
+    "react-spinners": "^0.11.0",
     "react-toast-notifications": "^2.4.3",
     "web-vitals": "^1.0.1"
   },

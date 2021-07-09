@@ -2,36 +2,26 @@ const data = [
   {
     id: 1,
     path: "./images/eggcellent-tailwind.png",
-    desc: "Small React.js + TailwindCSS Project",
+    desc: "Small React.js + TailwindCSS Project / Template",
     url: "https://eggcellent.netlify.app/",
   },
   {
     id: 2,
     path: "./images/CryptoTracker.png",
-    desc: "CryptoCurrency Tracker with Next.js",
+    desc: "CryptoCurrency Tracker - Next.js + Tailwind CSS",
     url: "https://crypto-tracking-nextjs.netlify.app",
   },
   {
     id: 3,
-    path: "./images/Myctofriend.png",
-    desc: "My CTO Friend Website - WP",
-    url: "https://myctofriend.co/",
+    path: "./images/Conversari-website.png",
+    desc: "Conversari Website - React + TailwindCSS",
+    url: "https://www.conversari.fr",
   },
   {
     id: 4,
-    path: "./images/g-you-formation.png",
-    desc: "G-You Formation VTC - WP",
-    url: "https://g-you-formations.com/",
-  },
-  {
-    id: 5,
-    path: "./images/insure-landing-page.png",
-    desc: "Insure Landing Page",
-  },
-  {
-    id: 6,
-    path: "./images/intro-component.png",
-    desc: "Intro Component",
+    path: "./images/Gatsby-react-travel.png",
+    desc: "Gatsby.js + styled components + GraphiQL (test framework)",
+    url: "https://gatsby-react.hugo-ribaud.dev",
   },
 ];
 
